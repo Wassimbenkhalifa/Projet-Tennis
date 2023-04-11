@@ -1,5 +1,8 @@
 # TennisAcademyProject
 
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/v6633jvl94ripgvjphp1" alt="Tennis Academy Image" width="250" /> <br>
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
 
 ## Development server
